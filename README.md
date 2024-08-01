@@ -1,1 +1,1 @@
-# netbox_shell
+# some netbox shell examples in Jupyter Notebook
